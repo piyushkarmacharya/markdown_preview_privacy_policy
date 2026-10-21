@@ -64,7 +64,6 @@ Since all data processing occurs locally on your device and no data is transmitt
 
 Markdown Preview does **NOT** integrate with any third-party services, including:
 
-- Analytics services (Google Analytics, Firebase Analytics, etc.)
 - Advertising networks
 - Social media platforms
 - Cloud storage services
@@ -112,29 +111,13 @@ These libraries process data locally on your device and do not transmit informat
 
 If you have any questions or concerns about this Privacy Policy or our practices, please contact us at:
 
-**Email**: [Your Contact Email]
-
-**Developer**: [Your Name/Company Name]
+**Email**: [karmacharyapiyush65@gmail.com]
 
 We will respond to your inquiry as soon as possible.
 
 ## Consent
 
 By using Markdown Preview, you consent to this Privacy Policy. If you do not agree with this policy, please do not use the application.
-
----
-
-## Summary
-
-| Aspect | Details |
-|--------|---------|
-| Data Collection | None |
-| Data Transmission | None (fully offline) |
-| Third-party Sharing | None |
-| Advertising | None |
-| Analytics | None |
-| Local Storage | Theme preference only |
-| Required Permissions | Storage (for file import only) |
 
 ---
 
